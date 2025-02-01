@@ -7,5 +7,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Luiz-M-Ribeiro&show_icons=true"
     media="(prefers-color-scheme: onedark), (prefers-color-scheme: onedark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-M-Ribeiro&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-M-Ribeiro&show_icons=true&theme=onedark" />
+  
 </picture>

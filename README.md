@@ -1,3 +1,15 @@
+# Olá eu sou o Luiz Ribeiro 👋
+
+<table>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Luiz-M-Ribeiro&theme=Tokyonight&show_icons=true>
+    
+  </td>
+  <td>
+    
+  </td>
+</table>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Luiz-M-Ribeiro&show_icons=true&theme=dark"
